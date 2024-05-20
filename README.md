@@ -55,3 +55,11 @@
 💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡
 <br>
 <br>
+
+
+<div dir="rtl">
+<h3 dir="rtl"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> نتیجه گیری</h3>
+
+در نتیجه ، هر یک از این ابزار ها نقش خاص خود را در مدیریت و بهینه‌ سازی داده‌ها ایفا می‌ کنند و می‌ توانند به صورت مکمل در یک زیر ساخت داده‌ ای جامع مورد استفاده قرار گیرند تا عملکرد و کارایی سیستم‌ های اطلاعاتی را بهبود بخشند .
+      
+</div>
