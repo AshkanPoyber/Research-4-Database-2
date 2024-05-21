@@ -63,16 +63,5 @@
 </div>
 
 
-<br>
-<br>
-💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡
-<br>
-<br>
-
-
-<div dir="rtl">
-<h3 dir="rtl"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> نتیجه گیری</h3>
-
-
       
 </div>
